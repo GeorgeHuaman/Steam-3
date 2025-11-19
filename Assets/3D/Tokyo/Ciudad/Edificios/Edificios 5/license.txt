@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shinjuku Park Tower (Tokyo)
+* source:	https://sketchfab.com/3d-models/shinjuku-park-tower-tokyo-0b53fac684a448349220104e8309956c
+* author:	aitortilla01 (https://sketchfab.com/aitortilla01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shinjuku Park Tower (Tokyo)" (https://sketchfab.com/3d-models/shinjuku-park-tower-tokyo-0b53fac684a448349220104e8309956c) by aitortilla01 (https://sketchfab.com/aitortilla01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

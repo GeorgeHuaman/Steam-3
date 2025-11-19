@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Style Fence
+* source:	https://sketchfab.com/3d-models/japanese-style-fence-67067ff587424f4b825c7e56c8f02c26
+* author:	Mizuchi Sensei (https://sketchfab.com/FatFreeBeefCake)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Style Fence" (https://sketchfab.com/3d-models/japanese-style-fence-67067ff587424f4b825c7e56c8f02c26) by Mizuchi Sensei (https://sketchfab.com/FatFreeBeefCake) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
