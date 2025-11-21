@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Steam-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|e:\\proyectos\\steam-3\\assets\\scripts\\desactivateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\desactivateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|e:\\proyectos\\steam-3\\assets\\scripts\\completetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\completetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\guardianes de la materia\\equationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\guardianes de la materia\\equationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\guardianes de la materia\\molecule3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\guardianes de la materia\\molecule3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\guardianes de la materia\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\guardianes de la materia\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\guardianes de la materia\\elementcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\guardianes de la materia\\elementcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\changeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\changeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\imageinteractuable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\imageinteractuable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|E:\\Proyectos\\Steam-3\\assets\\scripts\\desactivateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45156F4-F61A-96EA-DFE3-A22998015193}|NewAssembly.csproj|solutionrelative:assets\\scripts\\desactivateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +55,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CompleteTask.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\CompleteTask.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CompleteTask.cs",
+              "ToolTip": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\CompleteTask.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CompleteTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:25:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectManager.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\Guardianes de la materia\\SelectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guardianes de la materia\\SelectManager.cs",
+              "ToolTip": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\Guardianes de la materia\\SelectManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guardianes de la materia\\SelectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:24:17.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EquationManager.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\Guardianes de la materia\\EquationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guardianes de la materia\\EquationManager.cs",
+              "ToolTip": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\Guardianes de la materia\\EquationManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guardianes de la materia\\EquationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:40:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Molecule3D.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\Guardianes de la materia\\Molecule3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guardianes de la materia\\Molecule3D.cs",
+              "ToolTip": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\Guardianes de la materia\\Molecule3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guardianes de la materia\\Molecule3D.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:30:01.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElementCount.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\Guardianes de la materia\\ElementCount.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guardianes de la materia\\ElementCount.cs",
+              "ToolTip": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\Guardianes de la materia\\ElementCount.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guardianes de la materia\\ElementCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:28:38.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DesactivateImage.cs",
               "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\DesactivateImage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DesactivateImage.cs",
@@ -42,12 +123,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DesactivateImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T00:41:47.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T00:41:47.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ImageUiActive.cs",
               "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\ImageUiActive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ImageUiActive.cs",
@@ -59,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ImageInteractuable.cs",
               "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\ImageInteractuable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ImageInteractuable.cs",
@@ -71,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ImageUi.cs",
               "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\ImageUi.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ImageUi.cs",
@@ -83,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ChangeImage.cs",
               "DocumentMoniker": "E:\\Proyectos\\Steam-3\\Assets\\Scripts\\ChangeImage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeImage.cs",
