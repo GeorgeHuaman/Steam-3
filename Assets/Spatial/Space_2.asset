@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: Space_2
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: Paises Bajos
-  thumbnail: {fileID: 0}
+  sku: 1yveu2npkjse6x4mpacl4rzf
+  packageName: Paises Bajos - MACC
+  thumbnail: {fileID: 2800000, guid: e8d033a249505bc4fb5bade9822c433f, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
-  scene: {fileID: 0}
+  worldID: z0dnmh62rfomrf5qmjf6p
+  scene: {fileID: 102900000, guid: 4acfc058ba7a7844ca84d6f2d9f61c40, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: aa90a070b4b404940b0e7070579dd8b6,
     type: 3}
   embeddedPackageAssets: []

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_3
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: xxudpx6cz190roe6k0j4fydk
+  packageName: Guardianes de la Materia - Steam
+  thumbnail: {fileID: 2800000, guid: 04530a45d26c1d942960c6d4c651b258, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: z0dnmh62rfomrf5qmjf6p
+  scene: {fileID: 102900000, guid: 1338245061c2164428a1dabe57974f2e, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: aa90a070b4b404940b0e7070579dd8b6,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16
